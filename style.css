@@ -3,3 +3,8 @@ header{
 	color: orangered;
 	padding: 15px;
 }
+
+footer{
+	background-color: black;
+	color: white;
+}
